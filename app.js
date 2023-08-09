@@ -501,3 +501,4 @@ const color = prompt("Enter the color of the traffic signal:");
 
 // Call the function to check the traffic signal color and display the message
 checkTrafficSignal(color);
+
